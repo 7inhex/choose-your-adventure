@@ -11,4 +11,6 @@ As your research comes to a close, you hear about this old wooden cabin smack in
 
 You're up for a bit more work to have a nice place all to yourself, right?
 
-> [Buy the house.](./choice1)
+> [Buy the house.](./choice1.md)
+
+> [I don't want to work anymore. (Ignore the house)](./ending1.md)
